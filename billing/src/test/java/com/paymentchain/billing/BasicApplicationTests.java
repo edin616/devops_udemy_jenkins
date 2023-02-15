@@ -64,7 +64,7 @@ public class BasicApplicationTests {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
-    }
+    } 
                 
     /**
      * Test call of create method, on weblayer.
